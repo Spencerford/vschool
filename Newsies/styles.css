@@ -1,0 +1,42 @@
+p {
+    display: inline-block;
+    width: 20%;
+    padding: 20px;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+span {
+    color: #429FBA;
+}
+
+img {
+    width: 800px
+}
+
+center {
+    margin: auto;
+    width: 80%;
+    border: 3px solid green;
+    padding: 10px;
+    background-color: beige;
+}
+
+#look {
+    font-size: 14px;
+    font-family: cursive;
+}
+
+.fancy {
+    font-family: sans-serif;
+}

@@ -1,0 +1,74 @@
+* {
+    font-family: 'Brawler', serif;
+}
+
+.navbar {
+    background-color: transparent !important;
+    border: none;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+
+.header {
+    height: 400px;
+    width: 100%;
+    background: url("https://photos-4.dropbox.com/t/2/AACPN53wiVbzKtiyYIm7e0JYF1Ebj_uWcou8BqForjB4vQ/12/675776131/jpeg/32x32/1/_/1/2/startup-593329.jpg/ENqR1sMFGNUEIAcoBw/hJ3TiDiEFC8KBGQzot8qZnAdlecPFlMrJj0yenSJ47k?size=2048x1536&size_mode=3");
+    background-size: cover;
+    background-position: center;
+    margin-top: -20px;
+    top: 0;
+}
+
+.header-title {
+    color: white;
+    padding-top: 120px;
+}
+
+.header-body {
+    color: white;
+}
+
+.specialHr {
+    width: 100px;
+}
+
+.headernav {
+    color: white !important;
+}
+
+.navbar-nav a {
+    color: white !important;
+}
+
+.content {
+    width: 600px;
+    padding-top: 70px;
+    padding-bottom: 20px
+}
+
+.content-button {
+    float: right;
+}
+
+.fa-custom {
+    font-size: 25px;
+}
+
+.footer-inner {
+    padding-bottom: 60px;
+    padding-top: 70px;
+    max-width: 250px;
+    margin: auto;
+}
+
+.copyright {
+    padding-top: 15px;
+}
+
+ @media (max-width: 768px) {
+  .navbar-nav li {
+    text-align: right !important;
+  }
+}

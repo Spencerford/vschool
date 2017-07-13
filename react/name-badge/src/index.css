@@ -1,0 +1,61 @@
+.main-input {
+    width: 100%;
+    border: solid;
+    padding-top: 40px;
+    border-radius: 20px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+.title {
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+
+.submit-button {
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.bio {
+    padding-bottom: 60px;
+}
+
+.nameBadge {
+    background-color: lightblue;
+    border: solid;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+.badgeContent {
+    background-color: white;
+    padding-top: 30px;
+    width: 90%;
+    margin-bottom: 30px;
+    margin-left: 70px;
+    border-radius: 30px;
+
+}
+
+.badgeContent div {
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+.aboutSec {
+    padding-bottom: 50px;
+}
+
+.footer {
+    background-color: lightslategray;
+    width: 105%;
+    margin-top: 60px;
+}
+
+.nameTag-title {
+    margin-left: 55px;
+}

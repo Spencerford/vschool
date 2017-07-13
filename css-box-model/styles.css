@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box
+}
+
+body {
+    background-color: purple;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    background-color: #094E6D;
+    margin: 20px;
+    Border: 11.5px solid green;
+    display: inline-flex;
+    justify-content: space-between;
+    position: relative;
+}

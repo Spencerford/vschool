@@ -1,0 +1,24 @@
+.container-fluid {
+  height: 300px;
+  background-color: whitesmoke;
+  
+}
+
+.header-title {
+  padding-top: 100px;
+}
+
+.container {
+  height: 62vh;
+  width: 100%;
+  background-color: lightslategray;
+}
+
+.content {
+  padding-top: 100px;
+}
+
+ul {
+  list-style-type: none !important;
+}
+

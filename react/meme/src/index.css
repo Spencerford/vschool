@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.form-custom input {
+    margin-top: 50px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+
+
+.header {
+    background-color: lavender;
+    height: 300px;
+    padding-top: 100px;
+}
+
+.top-text {
+    top: 0;
+    padding-bottom: 250px;
+    padding-top: 20px;
+    font-size: 30px;
+    color: white;
+}
+
+.bottom-text {
+    bottom: 0;
+    font-size: 30px;
+    color: white;
+}
+
+.meme-image {
+    border: solid;
+    height: 400px;
+    margin-top: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+

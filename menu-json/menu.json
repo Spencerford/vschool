@@ -1,0 +1,59 @@
+{
+    "breakfast": [
+        {
+            "meat": true,
+            "name": "breakfast burrito",
+            "ing": ["egg", "cheese", "bacon", "tortilla"]
+        },
+        {
+            "meat": true,
+            "name": "steak & Egg",
+            "ing": ["steak", "egg", "potatoes"]
+        }
+    ],
+    
+    "lunch": [
+        {
+            "meat": true,
+            "name": "philly Cheesteak",
+            "ing": ["bread", "steak", "peppers", "cheese"]
+        },
+        {
+            "meat":true,
+            "name": "salad",
+            "ing": ["lettuce", "tomato", "chicken", "ranch"]
+        }
+    ],
+    
+    "dinner": [
+        {
+            "meat": true,
+            "name": "Steak dish",
+            "ing": ["steak", "Mashed Potatoes", "vegetables", "lettuce"]
+        },
+        {
+            "meat": true,
+            "name": "pasta",
+            "ing": ["noodles", "sauce", "sausage", "cheese"]
+        }
+    ],
+    
+    "appetizers": [
+        {
+            "meat": false,
+            "name": "Bruschetta",
+            "ing": ["tomato", "olive oil", "bread", "cheese"]
+        },
+        {
+            "meat": true,
+            "name": "Garlic bread",
+            "ing": ["bread", "garlic", "olive oil"]
+        }
+    ],
+    
+    "drinks": [
+        {
+            "name":["Dr. Pepper", "Gin N Tonic", "coke", "wine"]
+        }
+    ]
+}

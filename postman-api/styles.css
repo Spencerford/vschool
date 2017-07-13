@@ -1,0 +1,30 @@
+* {
+    font-family: 'Acme', sans-serif;
+}
+
+
+.background-image {
+    background-image: url("http://i.imgur.com/eVcYPSa.png");
+    height: 100vh;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.container {
+    padding-top: 5%;
+}
+
+#pokemon-name {
+    font-size: 60px !important;
+}
+
+h1 {
+    font-size: 60px !important;
+}
+
+h4 {
+    font-size: 40px !important;
+}

@@ -1,0 +1,26 @@
+.jumbotron {
+  text-align: center;
+}
+
+.todo-item {
+  text-align: center;
+  margin: auto;
+  font-size: 24px;
+}
+
+.left {
+  padding-right: 10px;
+  display: inline-block;
+  text-align: right;
+}
+
+.right {
+  padding-left: 10px;
+  display: inline-block;
+  text-align: left;
+  vertical-align: bottom;
+}
+
+.right p {
+  margin: 0;
+}

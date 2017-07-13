@@ -1,0 +1,25 @@
+.navbar {
+    height: 100px;
+    width: 100%;
+    background-color: darkred;
+}
+
+span {
+    padding: 10px;
+}
+
+.navbar-links {
+    float: right;
+}
+
+h1 {
+    color: crimson;
+    font-size: 40px;
+}
+
+.content {
+    background-color: lightslategray;
+    height: 100vh;
+    text-align: center;
+}
+

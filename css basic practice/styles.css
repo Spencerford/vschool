@@ -1,0 +1,58 @@
+body {
+    background-color: lightgray;
+}
+
+.navbar {
+    background-image: url("https://media.licdn.com/media/AAEAAQAAAAAAAAhLAAAAJDE1MjJlZmQxLTU0OTctNDI3Yy1hNzcwLTdmN2I1NDdkNjRiZA.jpg");
+    width: 100%;
+    display: inline-block;
+}
+
+.main {
+    display: inline-block;
+    padding: 40px;
+    text-decoration: none;
+    align-content: right;
+    font-size: 30px;
+    padding-right: 50px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.secondarybar {
+    display: inline-block;
+    padding: 50px;
+    text-align: right;
+    font-size: 20px;
+}
+
+.header {
+    text-align: center;
+    color: red;
+}
+
+.content {
+    display: inline-block;
+    float: left;
+    width: 50%;
+}
+
+.picture {
+    float: right;
+    display: inline-block;
+}
+
+footer {
+    background-color: coral;
+    display: inline-block;
+    float: left;
+    width: 100%;
+}
+
+footer h3 {
+    font-size: 30px;
+}
+
+footer h3,p {
+    display: inline-block;
+    padding: 30px;
+}

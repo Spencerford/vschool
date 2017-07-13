@@ -1,0 +1,17 @@
+body {
+
+}
+
+.title {
+    color: crimson;
+    font-size: 60px;
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    background-color: lightgray;
+    width: 100%;
+}
+

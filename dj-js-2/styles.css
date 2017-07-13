@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+.box {
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    border-radius: none;
+    transition: all 2s ease-in-out;
+}
+
+.container {
+    padding-top: 30vh;
+    padding-left: 30%;
+}
+
+.box:hover {
+    border-radius: 50%;
+    background-color: red;
+}
+
+.box-2 {
+    height: 500px;
+    width: 500px;
+}
+
+.my-audio {
+    padding-left: 39%;
+    padding-top: 20px;
+}

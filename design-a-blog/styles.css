@@ -1,0 +1,100 @@
+body {
+    padding: 0px;
+    margin: 0;
+}
+
+nav {
+    background-color: lightgray;
+    height: 100px;
+    width: 100%;
+    display: inline-block;
+    position: fixed;
+    top: 0;
+}
+
+.nav-title {
+    font-size: 35px;
+    float: left;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.nav-link {
+    float: right;
+    padding: 20px
+}
+
+.first {
+    margin-top: 100px;
+    top: 30px;
+    Width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    padding-bottom: 30px
+}
+
+.second {
+    margin-top: 50px;
+    top: 30px;
+    Width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    padding-bottom: 30px
+}
+
+.blog {
+    font-size: 40px;
+    margin: auto;
+    width: 50%;
+    border: 3px;
+    padding: 10px;
+}
+
+.by {
+    text-align: center;
+}
+
+img {
+    float: left;
+    height: 250px;
+    width: 300px;
+    padding: 15px;
+    padding-left: 0;
+}
+
+div {
+    width: 100%;
+    height: 5px;
+    background-color: black;
+}
+
+Footer {
+    background-color: lightgray;
+    height: 100px;
+    width: 100%;
+    display: inline-block;
+    bottom: 0;
+    
+}
+
+
+.footer-title {
+    font-size: 20px;
+    float: left;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.footer-link {
+    float: right;
+    padding: 20px
+}
+
+#bannerpic {
+    width: 100%;
+    height: 400px;
+    padding-top: 0px;
+    
+}

@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box; 
+    font-size: 0px;
+}
+
+.line-one {
+    Height: 100px;
+    width: 100%;
+    background-color: #F5C6D6;
+    Margin: 20px;
+    
+    
+}
+
+.line-two {
+    Height: 100px;
+    width: 100px;
+    background-color: #EE2E84;
+    padding: 10px;
+    margin: 20px;
+    display: inline-block;
+    
+}
+
+.line-three {
+    
+}
+
+.line-four
