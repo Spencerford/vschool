@@ -1,0 +1,38 @@
+.header {
+    background-color: antiquewhite;
+}
+
+.input {
+    height: 300px;
+    background-color: pink;
+    padding-top: 100px;
+}
+
+.description {
+    padding-bottom: 50px;
+}
+
+.input div button {
+    margin-top: 80px;
+}
+
+.output-box {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.image {
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 30px;
+}
+
+.edit-buttons {
+    margin-top: 20px;
+    
+}
+
+.footer {
+    height: 100px;
+}

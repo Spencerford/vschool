@@ -1,0 +1,58 @@
+* {
+    font-family: 'Spectral', serif;
+}
+
+body {
+    background-color: cornsilk
+}
+
+.header {
+    height: 300px;
+    padding-top: 100px;
+    background-color: maroon;
+}
+
+.header-title {
+    color: white;
+    font-size: 50px;
+}
+
+
+.list-title {
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.list-box {
+    background-color: rgba(155, 155, 155, 0.6);
+    height: 230px;
+}
+
+.editInput {
+    bottom: 0;
+    position: absolute;
+}
+
+.list-item {
+    margin-top: 50px;
+}
+
+.list-description {
+    margin-top: 30px;
+    text-justify: right;
+}
+
+.content {
+    margin-top: 80px;
+}
+
+.deleteButton {
+    top: 0;
+    right: 0;
+    position: absolute;
+    border: none;
+}
+
+.total {
+    margin-top: 30px;
+}
